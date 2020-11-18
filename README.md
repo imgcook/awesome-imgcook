@@ -19,6 +19,7 @@ The following lists Pipcook plugins in category.
 - [imgcook/pipcook-plugin-mnist-data-collector](https://github.com/imgcook/pipcook-plugin-mnist-data-collector) Mnist dataset Collector.
 - [imgcook/pipcook-plugin-csv-data-collector](https://github.com/imgcook/pipcook-plugin-csv-data-collector) CSV dataset collector.
 - [imgcook/pipcook-plugin-fasttext-data-collector](https://github.com/imgcook/pipcook-plugin-fasttext-data-collector) FastText-compatible dataset collector.
+- [imgcook/pipcook-plugin-ui-generator](https://github.com/imgcook/pipcook-plugin-ui-generator) Generate UI samples for object detection and image classification pipelines.
 
 ### Model Define
 
