@@ -1,14 +1,10 @@
 # awesome-imgcook
 
-## Tutorials
-
-- [体验机器学习：在Mac电脑上训练和部署一个图片分类模型](https://github.com/imgcook/ml-mac-classify)
-- [Boa: Use Python functions in Node.js](https://www.reddit.com/r/Pipcook/comments/ime8ij/boa_use_python_functions_in_nodejs/)
-- [How to use free GPU/TPU with Pipcook on Google Colab](https://www.reddit.com/r/Pipcook/comments/im4vrp/how_to_use_free_gputpu_with_pipcook_on_google/)
-
-## Books
-
-- [Pipcook Book](https://alibaba.github.io/pipcook/#/)
+<div align="center">
+	<p>
+    <a href="https://github.com/imgcook">imgcook</a> is an ingenious chef who specializes in cooking with something for the front-end intelligence.
+	</p>
+</div>
 
 ## JavaScript packages for machine learning
 
@@ -42,7 +38,7 @@
 
 The following lists Pipcook plugins in category.
 
-### Data Collect
+### Data Collect(Dataset)
 
 - [imgcook/pipcook-plugin-mnist-data-collector](https://github.com/imgcook/pipcook-plugin-mnist-data-collector) Mnist dataset Collector.
 - [imgcook/pipcook-plugin-csv-data-collector](https://github.com/imgcook/pipcook-plugin-csv-data-collector) CSV dataset collector.
@@ -60,6 +56,16 @@ The following lists Pipcook plugins in category.
 - [imgcook/pipcook-plugin-detectron-model-train](https://github.com/imgcook/pipcook-plugin-detectron-model-train) train a detectron2-based vision model.
 - [imgcook/pipcook-plugin-tensorflow-image-classification-model-train](https://github.com/imgcook/pipcook-plugin-tensorflow-image-classification-model-train) train a tensorflow-based image classfication model.
 - [imgcook/pipcook-plugin-tfjs-image-classification-model-train](https://github.com/imgcook/pipcook-plugin-tfjs-image-classification-model-train) train a tfjs-based image classification model.
+
+## Tutorials
+
+- [体验机器学习：在Mac电脑上训练和部署一个图片分类模型](https://github.com/imgcook/ml-mac-classify)
+- [Boa: Use Python functions in Node.js](https://www.reddit.com/r/Pipcook/comments/ime8ij/boa_use_python_functions_in_nodejs/)
+- [How to use free GPU/TPU with Pipcook on Google Colab](https://www.reddit.com/r/Pipcook/comments/im4vrp/how_to_use_free_gputpu_with_pipcook_on_google/)
+
+## Books
+
+- [Pipcook Book](https://alibaba.github.io/pipcook/#/)
 
 ## License
 
