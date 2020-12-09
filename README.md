@@ -1,6 +1,6 @@
 # awesome-imgcook
 
-[imgcook](https://github.com/imgcook) is an ingenious chef who specializes in cooking with something for the front-end intelligence.
+[imgcook](https://github.com/imgcook) is an ingenious chef who specializes in cooking with something for the Web intelligence.
 
 ## Contents
 
