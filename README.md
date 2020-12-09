@@ -10,16 +10,31 @@
 
 - [Pipcook Book](https://alibaba.github.io/pipcook/#/)
 
-## Machine learning for JavaScript
+## JavaScript packages for machine learning
 
-- deep learning
-  - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) A WebGL accelerated JavaScript library for training and deploying ML models.
-  - [yorkie/tensorflow-nodejs](https://github.com/yorkie/tensorflow-nodejs) TensorFlow Node.js provides idiomatic JavaScript language bindings and a high layer API for Node.js users.
-- feature engineering
-  - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-  - [imgcook/datacook](https://github.com/imgcook/datacook) data processing in pure JavaScript.
-- tools
-  - [alibaba/pipcook](https://github.com/alibaba/pipcook) Front-End Algorithm Engineering Platform.
+### Neural networks
+
+- [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
+- [yorkie/tensorflow-nodejs](https://github.com/yorkie/tensorflow-nodejs) - TensorFlow Node.js provides idiomatic JavaScript language bindings and a high layer API for Node.js users.
+- [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+
+### Feature engineering
+
+- [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [imgcook/datacook](https://github.com/imgcook/datacook) - data processing in pure JavaScript.
+
+### Natural language processing
+
+- [retext](https://github.com/wooorm/retext) - An extensible natural language system.
+- [franc](https://github.com/wooorm/franc) - Detect the language of text.
+- [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+- [natural](https://github.com/NaturalNode/natural) - Natural language facility.
+- [nlp.js](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
+
+### Tools
+
+- [opensource9ja/dnotebook](https://github.com/opensource9ja/dnotebook) - Dnotebook is a Jupyter-like library for javaScript environment. It allows you to create and share pages that contain live code, text and visualizations.
+- [alibaba/pipcook](https://github.com/alibaba/pipcook) - Front-End Algorithm Engineering Platform.
 
 ## Pipcook Plugins
 
