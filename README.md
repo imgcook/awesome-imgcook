@@ -10,6 +10,17 @@
 
 - [Pipcook Book](https://alibaba.github.io/pipcook/#/)
 
+## Machine learning for JavaScript
+
+- deep learning
+  - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) A WebGL accelerated JavaScript library for training and deploying ML models.
+  - [yorkie/tensorflow-nodejs](https://github.com/yorkie/tensorflow-nodejs) TensorFlow Node.js provides idiomatic JavaScript language bindings and a high layer API for Node.js users.
+- feature engineering
+  - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+  - [imgcook/datacook](https://github.com/imgcook/datacook) data processing in pure JavaScript.
+- tools
+  - [alibaba/pipcook](https://github.com/alibaba/pipcook) Front-End Algorithm Engineering Platform.
+
 ## Pipcook Plugins
 
 The following lists Pipcook plugins in category.
@@ -32,3 +43,7 @@ The following lists Pipcook plugins in category.
 - [imgcook/pipcook-plugin-detectron-model-train](https://github.com/imgcook/pipcook-plugin-detectron-model-train) train a detectron2-based vision model.
 - [imgcook/pipcook-plugin-tensorflow-image-classification-model-train](https://github.com/imgcook/pipcook-plugin-tensorflow-image-classification-model-train) train a tensorflow-based image classfication model.
 - [imgcook/pipcook-plugin-tfjs-image-classification-model-train](https://github.com/imgcook/pipcook-plugin-tfjs-image-classification-model-train) train a tfjs-based image classification model.
+
+## License
+
+MIT.
