@@ -1,10 +1,6 @@
 # awesome-imgcook
 
-<div align="center">
-	<p>
-    <a href="https://github.com/imgcook">imgcook</a> is an ingenious chef who specializes in cooking with something for the front-end intelligence.
-	</p>
-</div>
+[imgcook](https://github.com/imgcook) is an ingenious chef who specializes in cooking with something for the front-end intelligence.
 
 ## JavaScript packages for machine learning
 
