@@ -16,20 +16,22 @@
 
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [yorkie/tensorflow-nodejs](https://github.com/yorkie/tensorflow-nodejs) - TensorFlow Node.js provides idiomatic JavaScript language bindings and a high layer API for Node.js users.
-- [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+- [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+- [microsoft/onnxjs](https://github.com/microsoft/onnxjs) - ONNX.js: run ONNX models using JavaScript.
 
 ### Feature engineering
 
+- [imgcook/datacook](https://github.com/imgcook/datacook) - Data processing in pure JavaScript.
 - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-- [imgcook/datacook](https://github.com/imgcook/datacook) - data processing in pure JavaScript.
+- [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 
 ### Natural language processing
 
-- [retext](https://github.com/wooorm/retext) - An extensible natural language system.
-- [franc](https://github.com/wooorm/franc) - Detect the language of text.
-- [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
-- [natural](https://github.com/NaturalNode/natural) - Natural language facility.
-- [nlp.js](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
+- [wooorm/retext](https://github.com/wooorm/retext) - An extensible natural language system.
+- [wooorm/franc](https://github.com/wooorm/franc) - Detect the language of text.
+- [sindresorhus/leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+- [NaturalNode/natural](https://github.com/NaturalNode/natural) - Natural language facility.
+- [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
 
 ### Tools
 
