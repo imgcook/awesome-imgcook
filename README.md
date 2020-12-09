@@ -11,8 +11,11 @@
   - [Tools](#tools)
 - [Pipcook Plugins](#pipcook-plugins)
   - [Data Collect](#data-collectdataset)
+  - Data Access
+  - Data Process
   - [Model Define](#model-define)
   - [Model Train](#model-train)
+  - Model Evaluate
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Books](#books)
