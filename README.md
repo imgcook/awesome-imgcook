@@ -2,6 +2,21 @@
 
 [imgcook](https://github.com/imgcook) is an ingenious chef who specializes in cooking with something for the front-end intelligence.
 
+## Contents
+
+- [JavaScript packages for machine learning](#javaScript-packages-for-machine-learning)
+	- [Neural networks](#neural-networks)
+  - [Feature engineering](#feature-engineering)
+  - [Natural language processing](#natural-language-processing)
+  - [Tools](#tools)
+- [Pipcook Plugins](#pipcook-plugins)
+  - [Data Collect](#data-collectdataset)
+  - [Model Define](#model-define)
+  - [Model Train](#model-train)
+- [Resources](#resources)
+	- [Tutorials](#tutorials)
+	- [Books](#books)
+
 ## JavaScript packages for machine learning
 
 ### Neural networks
@@ -53,15 +68,18 @@ The following lists Pipcook plugins in category.
 - [imgcook/pipcook-plugin-tensorflow-image-classification-model-train](https://github.com/imgcook/pipcook-plugin-tensorflow-image-classification-model-train) train a tensorflow-based image classfication model.
 - [imgcook/pipcook-plugin-tfjs-image-classification-model-train](https://github.com/imgcook/pipcook-plugin-tfjs-image-classification-model-train) train a tfjs-based image classification model.
 
-## Tutorials
+## Resources
+
+### Tutorials
 
 - [体验机器学习：在Mac电脑上训练和部署一个图片分类模型](https://github.com/imgcook/ml-mac-classify)
 - [Boa: Use Python functions in Node.js](https://www.reddit.com/r/Pipcook/comments/ime8ij/boa_use_python_functions_in_nodejs/)
 - [How to use free GPU/TPU with Pipcook on Google Colab](https://www.reddit.com/r/Pipcook/comments/im4vrp/how_to_use_free_gputpu_with_pipcook_on_google/)
 
-## Books
+### Documentations
 
-- [Pipcook Book](https://alibaba.github.io/pipcook/#/)
+- [Pipcook docs](https://alibaba.github.io/pipcook/#/)
+- [imgcook docs](https://www.imgcook.com/docs)
 
 ## License
 
