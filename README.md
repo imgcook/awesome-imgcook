@@ -5,10 +5,11 @@
 ## Contents
 
 - [JavaScript packages for machine learning](#javaScript-packages-for-machine-learning)
-	- [Neural networks](#neural-networks)
+  - [Neural networks](#neural-networks)
   - [Feature engineering](#feature-engineering)
   - [Natural language processing](#natural-language-processing)
   - [Tools](#tools)
+- [Pipcook Pipelines](#pipcook-pipelines)
 - [Pipcook Plugins](#pipcook-plugins)
   - [Data Collect](#data-collectdataset)
   - Data Access
@@ -17,8 +18,9 @@
   - [Model Train](#model-train)
   - Model Evaluate
 - [Resources](#resources)
-	- [Tutorials](#tutorials)
-	- [Books](#books)
+  - [Tutorials](#tutorials)
+  - [Notebooks](#notebooks)
+  - [Books](#books)
 
 ## JavaScript packages for machine learning
 
@@ -47,6 +49,25 @@
 
 - [opensource9ja/dnotebook](https://github.com/opensource9ja/dnotebook) - Dnotebook is a Jupyter-like library for javaScript environment. It allows you to create and share pages that contain live code, text and visualizations.
 - [alibaba/pipcook](https://github.com/alibaba/pipcook) - Front-End Algorithm Engineering Platform.
+
+## Pipcook Pipelines
+
+This section will list some useful pipelines that you could train locally and use:
+
+```sh
+$ pipcook run https://uri/to/pipeline
+```
+
+- Image classification
+  - [databinding-image-classification-mobilenet.json](https://raw.githubusercontent.com/alibaba/pipcook/main/example/pipelines/databinding-image-classification-mobilenet.json) a pipeline to classify image in mobilenet.
+  - [databinding-image-classification-resnet.json](https://raw.githubusercontent.com/alibaba/pipcook/main/example/pipelines/databinding-image-classification-resnet.json) a pipeline to classify image in resnet.
+- Object Detection
+  - [object-detection-yolov5.json](https://github.com/alibaba/pipcook/blob/main/example/pipelines/object-detection-yolov5.json)(Recommanded) object detection pipeline in lightweight yolov5 model.
+  - [object-detection-fasterrcnn.json](https://raw.githubusercontent.com/alibaba/pipcook/main/example/pipelines/object-detection-fasterrcnn.json) object detection pipeline in Faster-RCNN model.
+- Text Classification
+  - [text-bayes-classification](https://raw.githubusercontent.com/alibaba/pipcook/main/example/pipelines/text-bayes-classification.json) a bayesian-based model to classify texts.
+- Text Creation
+  - [chinese-poem-creation.json](https://raw.githubusercontent.com/alibaba/pipcook/main/example/pipelines/chinese-poem-creation.json) creating Chinese poems by yourself.
 
 ## Pipcook Plugins
 
@@ -78,6 +99,13 @@ The following lists Pipcook plugins in category.
 - [体验机器学习：在Mac电脑上训练和部署一个图片分类模型](https://github.com/imgcook/ml-mac-classify)
 - [Boa: Use Python functions in Node.js](https://www.reddit.com/r/Pipcook/comments/ime8ij/boa_use_python_functions_in_nodejs/)
 - [How to use free GPU/TPU with Pipcook on Google Colab](https://www.reddit.com/r/Pipcook/comments/im4vrp/how_to_use_free_gputpu_with_pipcook_on_google/)
+
+### Notebooks
+
+The notebooks is based on Google Colab, you can enable its free GPU/TPU to save your time:
+
+- [Pipcook tutorial: image classification in frontend](https://colab.research.google.com/github/alibaba/pipcook/blob/master/notebooks/pipcook_image_classification.ipynb)
+- [Pipcook tutorial: object detection in frontend](https://colab.research.google.com/github/alibaba/pipcook/blob/master/notebooks/pipcook_object_detection.ipynb)
 
 ### Documentations
 
