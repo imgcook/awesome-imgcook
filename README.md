@@ -33,7 +33,7 @@
 
 ### Feature engineering
 
-- [imgcook/datacook](https://github.com/imgcook/datacook) - Data processing in pure JavaScript.
+- [imgcook/datacook](https://github.com/imgcook/datacook) - A JavaScript library for feature engineering on datasets.
 - [opensource9ja/danfojs](https://github.com/opensource9ja/danfojs) - danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 
